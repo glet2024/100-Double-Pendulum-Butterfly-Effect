@@ -5,7 +5,9 @@ A simulation of 100 double pendulums with very slight differences in initial con
 Program demo:
 
 
-https://user-images.githubusercontent.com/77819050/130055381-f3ecff9c-9830-4c18-b612-663429b18ddd.mp4
+https://user-images.githubusercontent.com/77819050/130059167-c232f7a1-ddeb-4576-91c5-70f19afc7779.mp4
+
+
 
 
 
