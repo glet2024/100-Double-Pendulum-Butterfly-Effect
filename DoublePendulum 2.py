@@ -916,7 +916,7 @@ anim = animation.FuncAnimation(fig, animate, np.arange(1, len(b)), interval=30, 
 '''
 here is the option to save the simulation as a gif
 '''
-#f = r"c:\\Users\gusle\Desktop\animation100.gif"
+#f = r"c:\\FILE_DESTINATION\DESIRED_NAME.gif"
 #writergif = animation.PillowWriter(fps=30)
 #anim.save(f, writer=writergif)
 
